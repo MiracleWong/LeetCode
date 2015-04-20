@@ -1,9 +1,9 @@
 # LeetCode
 My LeetCode Journey
 
-I join the "Algorithm Online Class in April" which is created by [七月算法](www.julyedu.com)
+I join the "Algorithm Online Class in April" which is created by [七月算法](http://julyedu.com/)
 
-I can understand the class when teachers teaching in the classes , but I cannot code correctly in the [LeetCode](www.LeetCode.com), my code is always not AC.
+I can understand the class when teachers teaching in the classes , but I cannot code correctly in the [LeetCode](https://leetcode.com/), my code is always not AC.
 
 I create this resposity ioto start "My LeetCode Journey", and code and solve the problems in Java.
 
